@@ -22,6 +22,9 @@ These techniques include:
 - Missing Value Analysis (MVA)
 This technique will help you figure out which parts of your data are missing. More than that, it will tell you if there is a pattern in their absence.
 
+![image](https://user-images.githubusercontent.com/100648556/171472324-9bb56de7-7f90-4c09-b4b4-5921c139a35b.png)
+
+
 Basic Missing Number Analysis to Show Gaps in Data
 Missing Number Analysis can identify which features may be closely related and thus used to fill gaps
 Perhaps you’ll notice synchronous gaps in data, or perhaps you’ll notice data features you don’t need at all.
